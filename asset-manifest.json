@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/saurabhsharmaj/react-json2table/static/css/main.b0685e0c.css",
+    "main.js": "/saurabhsharmaj/react-json2table/static/js/main.539592f3.js",
+    "static/js/787.ce68c690.chunk.js": "/saurabhsharmaj/react-json2table/static/js/787.ce68c690.chunk.js",
+    "static/media/logo.svg": "/saurabhsharmaj/react-json2table/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/saurabhsharmaj/react-json2table/index.html",
+    "main.b0685e0c.css.map": "/saurabhsharmaj/react-json2table/static/css/main.b0685e0c.css.map",
+    "main.539592f3.js.map": "/saurabhsharmaj/react-json2table/static/js/main.539592f3.js.map",
+    "787.ce68c690.chunk.js.map": "/saurabhsharmaj/react-json2table/static/js/787.ce68c690.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0685e0c.css",
+    "static/js/main.539592f3.js"
+  ]
+}
