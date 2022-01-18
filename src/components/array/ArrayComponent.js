@@ -5,7 +5,8 @@ const rowsData=[
     {
         "id":1,
         "name":"Saurabh",
-        "age":34
+        "age":34,
+        "address":"Jaipur"
     },{
         "id":2,
         "name":"Neha",
@@ -17,7 +18,7 @@ const rowsData=[
     },{
         "id":4,
         "name":"Anay",
-        "age":3
+        "age":3,
     }
 ];
 function ArrayComponent(props){
